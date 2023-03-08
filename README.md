@@ -2,7 +2,7 @@
 
 <h1 style="text-align: center;"> Math's PGR Conference 2023 </h1>
 
-<h2 style="text-align: center;"> **Abstract** </h2>
+<h2 style="text-align: center;"> Abstract </h2>
 
 The purpose of the current study is to establish a modelling framework to understand the movement of European badgers (Meles meles) within their environment. It is widely understood that badgers play a crucial role in the transmission of bovine tuberculosis (bTB), where bTB is a serious disease of cattle and has a significant economic impact on farmers. However, despite all the GPS data, ecologists still do not understand what they can learn from the data about fine-scale badger movement. A key research question we would like to answer is can we generate a dynamical model to explore badger movement?
  
