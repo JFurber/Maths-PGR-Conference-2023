@@ -11,4 +11,27 @@ To model the movements, we are using energy potentials, primarily seen in physic
 The model is created using data driven methods, where it is parametrized using GPS data. The modelling framework will allow us to answer key ecological questions: How does badger movement affect the spread of bTB? How does the weather affect badger movement? With the role badgers play in the spread of bTB, the answer to these questions could be crucial in the role of strategy planning.
  
 We present results on the parameterized model with the data. This includes the generation of an energy potential and the estimation of a noise term. We have also analysed the differences between male and female badgers to understand different transitions. By simulating these differences, we have created a dynamical model that explores badger movement, and we can now start answering the key ecological questions.
+
+
+---
+
+<h2 style="text-align: center;"> Generated Trajectory </h2>
+
+---
+
+<h2 style="text-align: center;"> Bibliography </h2>
+
+[1] Brillinger, D., Preisler, H., Ager, A., Kie, J., and Service, U. The use of potential functions in modelling animal movement. Data Analysis from Statistical Foundations: A Festschrift in Honour of the 75th Birthday of DAS Fraser (05 2001).
+
+[2] Burt, W. H. Territoriality and home range concepts as applied to mammals. Journal of Mammalogy 24, 3 (1943),
+346–352.
+
+[3] Downs, J., Horner, M., Lamb, D., Loraamm, R. W., Anderson, J., and Wood, B. Testing time-geographic density estimation for home range analysis using an agent-based model of animal movement. International Journal of Geographical Information Science 32, 7 (2018), 1505–1522.
+
+[4] Klus, S., Koltai, P., and Sch ̈utte, C. On the numerical approximation of the Perron-Frobenius and Koopman operator. Journal of Computational Dynamics (2015).
+
+[5] Preisler, H., Ager, A., Johnson, B., and Kie, J. Modeling animal movements using stochastic differential equations. Environmetrics 15636 (11 2004), 643–657.
+
+[6] Preisler, H. K., Ager, A. A., and Wisdom, M. J. Analyzing animal movement patterns using potential functions.
+Ecosphere 4, 3 (2013), 1–13.
  
