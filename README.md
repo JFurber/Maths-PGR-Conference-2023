@@ -28,7 +28,7 @@ We present results on the parameterized model with the data. This includes the g
 
 [3] Downs, J., Horner, M., Lamb, D., Loraamm, R. W., Anderson, J., and Wood, B. Testing time-geographic density estimation for home range analysis using an agent-based model of animal movement. International Journal of Geographical Information Science 32, 7 (2018), 1505–1522.
 
-[4] Klus, S., Koltai, P., and Sch ̈utte, C. On the numerical approximation of the Perron-Frobenius and Koopman operator. Journal of Computational Dynamics (2015).
+[4] Klus, S., Koltai, P., and Schutte, C. On the numerical approximation of the Perron-Frobenius and Koopman operator. Journal of Computational Dynamics (2015).
 
 [5] Preisler, H., Ager, A., Johnson, B., and Kie, J. Modeling animal movements using stochastic differential equations. Environmetrics 15636 (11 2004), 643–657.
 
