@@ -35,3 +35,8 @@ We present results on the parameterized model with the data. This includes the g
 [6] Preisler, H. K., Ager, A. A., and Wisdom, M. J. Analyzing animal movement patterns using potential functions.
 Ecosphere 4, 3 (2013), 1–13.
  
+ ---
+
+ To follow what I do in my work, please visit:
+
+ https://jfurber23.wixsite.com/my-phd-journey
