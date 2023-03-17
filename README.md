@@ -17,7 +17,7 @@ We present results on the parameterized model with the data. This includes the g
 
 <h2 style="text-align: center;"> Generated Trajectory </h2>
 
-![](Video_14M_geoscatter_5000.gif)
+![](14M.gif)
 
 ---
 
