@@ -19,6 +19,9 @@ We present results on the parameterized model with the data. This includes the g
 
 ![](14M.gif)
 
+<p align="center">
+<img src="14M.gif">
+</p>
 ---
 
 <h2 style="text-align: center;"> Bibliography </h2>
