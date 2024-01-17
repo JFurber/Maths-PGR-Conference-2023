@@ -45,6 +45,4 @@ Ecosphere 4, 3 (2013), 1–13.
  
  ---
 
- To follow what I do in my work, please visit:
-
- https://jfurber23.wixsite.com/my-phd-journey
+ To follow what I do in my work, please click [here](https://j-furber.github.io).
